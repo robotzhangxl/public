@@ -1,40 +1,23 @@
-## Welcome to GitHub Pages
+## 张晓龙
 
-You can use the [editor on GitHub](https://github.com/robotzhangxl/public/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[ORCID 0000-0003-2014-942X](https://orcid.org/0000-0003-2014-942X)  
+ORCID  : [Link](url) and ![Image](src)
+Email : wapuzxl@126.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究方向
+基于强化学习的机器人控制算法; 工业机器人轨迹规划
 
-### 张晓龙
+### 教育背景
+北京航空航天大学 计算机学院 博士研究生在读
+北京邮电大学  MBA 
+华中农业大学  自动化    硕士
+武汉理工大学  汽车工程  本科
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 发表文章及专利
 
-```markdown
-Syntax highlighted code block
+US8825723B2 Methods and devise for managing and editing files in a file system
+EP 2204730A1 Method and apparatus for creating files in a file system
 
-# 研究方向
-# 教育背景
-# 发表文章
-# 荣誉奖励
-## Header 2
-### Header 3
+### 荣誉奖励
+深圳科创委专家库成员
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robotzhangxl/public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
